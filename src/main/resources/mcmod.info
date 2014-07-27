@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extragenerators",
+  "name": "Extra Generators",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DrummerMC"],
+  "credits": "Adds Generators",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
